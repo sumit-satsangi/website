@@ -9,14 +9,14 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# filter buttons
-# buttons:
-# - name: All
-#   filter: "all"
+filter buttons
+buttons:
+- name: All
+  filter: "all"
 # - name: Basic
 #   filter: "basic"
-# - name: Language
-#   filter: "language"
+- name: Language
+  filter: "language"
 # - name: Container
 #   filter: "container"
 # - name: Others
@@ -28,30 +28,36 @@ skills:
 - name: Tableau
   logo: /images/sections/skills/tableau.png
   summary: "Identifying metrics and creating KPI Dashboards in Tableau to look at historical trends and analyse Ops performance."
+  categories: ["language"]
 #  url: "https://kubernetes.io/"
 
 - name: Alteryx
   logo: /images/sections/skills/alteryx.png
   summary: "A small stint with Alteryx to do the heavy lifting of the Incentives file. The output is pushed to Power BI for dashboards."
+  categories: ["language"]
 #  url: "https://golang.org/"
 
 - name: Power BI
   logo: /images/sections/skills/pbix.png
   summary: "Created multiple dashboards with one where Incentives are calculated automatically for the Operations."
-
+  categories: ["language"]
+  
 - name: R Language
   logo: /images/sections/skills/Rlogo.png
   summary: "I use R primarily for metrics calculations and data cleansing."
+  categories: ["language"]
 #  url: "https://www.docker.com/"
 
 - name: SQL
   logo: /images/sections/skills/SQL.png
   summary: "Integral part of professional life."
+  categories: ["language"]
 #  url: "https://prometheus.io/"
 
 - name: Excel
   logo: /images/sections/skills/excel.png
   summary: "When everything fails, Excel excels. Adhoc analyses, Macro, Small scale Automation, Concept proofing, Reporting Dashboards; I have created all of them in trustworthy Excel."
+  categories: ["all"]
 # # 
 # 
 # - name: Kubernetes
