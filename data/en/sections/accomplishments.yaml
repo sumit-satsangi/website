@@ -18,7 +18,7 @@ accomplishments:
     url: https://www.genpact.com
   courseOverview: The certificate is given to those who have successfully implemented 7 Lean ideas inside the organization. </br>Since my niche was Excel back in those days, I created/automated several reports and dashboards to reduce time, efforts and manual errors. Automation provided Governance and control which was direly needed.
   #certificateURL: "https://media-exp1.licdn.com/dms/document/C4D1FAQE1ZtYJVzr4rA/feedshare-document-pdf-analyzed/0/1620552303972?e=1640325600&v=beta&t=F6r-Pm5_6DdQ_F2Ylfi-u5fWBhJ5GrOa9AdhiY3h5lI"
-  certificateURL: /images/sections/accomplishments/test.png
+  logo: /images/sections/accomplishments/test.png
 
 - name: Green Belt Certification
   timeline: ""
