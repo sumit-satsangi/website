@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://sumitsatsangi.netlify.app/
 
-languageCode: bn
-title: "John's Blog"
+languageCode: en
+title: "Sumit Satsangi"
 
 # Use Hugo modules to add theme
 module:
