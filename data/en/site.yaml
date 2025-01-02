@@ -1,19 +1,17 @@
 # Copyright Notice
-copyright: © 2020 Copyright.
+copyright: © 2025 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
-You can modify or distribute the theme without requiring any permission from the theme author.
-However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
+disclaimer: "You can use the content of this website for non-commercial, commercial, or private use. Though a link-back and attribution is appreciated as a lot of time and efforts are done to create the content. "
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio and personal blog of John Doe.
+description: Portfolio and personal space of Sumit Satsangi.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: Docs
-  url: https://toha-guides.netlify.app/posts/
+- name: LinkedIn
+  url: https://linkedin.com/in/sumitsatsangi/
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: false
   # specify whether to show the menu item in footer or not.
@@ -22,8 +20,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Sumit's space
   type: website
-  description: Portfolio and personal blog of John Doe.
-  image: images/author/john.png
-  url: https://hugo-toha.github.io
+  description: Portfolio and personal space of Sumit Satsangi.
+  image: images/author/avatar.jpeg
+  url: https://github.com/sumit-satsangi/website
