@@ -35,22 +35,22 @@ accomplishments:
   courseOverview: Awarded to the Top ranking students across State in Secondary Education. With 82%, I was one among the few who were given the certificate.
   #certificateURL: "https://example.com"
 
-# - name: Google - Foundations of Business Intelligence
-#   timeline: ""
-#   organization:
-#     name: Google @ Coursera
-#     url: https://www.coursera.org
-#   courseOverview: This is the first of three courses in the Google Business Intelligence Certificate, which will help develop the skills needed to apply for entry-level roles as a business intelligence (BI) professional.
-#   certificateURL: "https://drive.google.com/file/d/1NCN9ylyBd2_LtPPaScy6eZQeQRWJULUt/view?usp=sharing"
-# 
-# - name: ETL Testing: From Beginner to Expert
-#   timeline: ""
-#   organization:
-#     name: Udemy
-#     url: https://www.udemy.com/course/the-complete-etl-testing-course/?srsltid=AfmBOooATYw8BSJ66mCN2t5rkpj3fJVNNZfKjELXS0ZoaLK1XCDGzdos
-#   courseOverview: Understand different ETL Testing scenarios like Constraint Testing, Source to Target Testing, Business Rules Testing, Negative Scenarios, Dependency Testing
-#   certificateURL: "https://drive.google.com/file/d/1NsfBFgGvTeZkwsnLb-FAAfCqIf-waYto/view?usp=sharing"
-# 
+- name: Google - Foundations of Business Intelligence
+  timeline: ""
+  organization:
+    name: Google @ Coursera
+    url: https://www.coursera.org
+  courseOverview: This is the first of three courses in the Google Business Intelligence Certificate, which will help develop the skills needed to apply for entry-level roles as a business intelligence (BI) professional.
+  certificateURL: "https://drive.google.com/file/d/1NCN9ylyBd2_LtPPaScy6eZQeQRWJULUt/view?usp=sharing"
+
+- name: ETL Testing: From Beginner to Expert
+  timeline: ""
+  organization:
+    name: Udemy
+    url: https://www.udemy.com/course/the-complete-etl-testing-course/?srsltid=AfmBOooATYw8BSJ66mCN2t5rkpj3fJVNNZfKjELXS0ZoaLK1XCDGzdos
+  courseOverview: Understand different ETL Testing scenarios like Constraint Testing, Source to Target Testing, Business Rules Testing, Negative Scenarios, Dependency Testing
+  certificateURL: "https://drive.google.com/file/d/1NsfBFgGvTeZkwsnLb-FAAfCqIf-waYto/view?usp=sharing"
+
 # - name: CSM® Certification
 #   timeline: ""
 #   organization:
