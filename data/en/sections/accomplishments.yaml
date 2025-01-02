@@ -33,12 +33,12 @@ accomplishments:
     name: Government of India
     url: https://www.education.gov.in/en
   courseOverview: Awarded to the Top ranking students across State in Secondary Education. With 82%, I was one among the few who were given the certificate.
-  #certificateURL: "https://example.com"
+  #certificateURL: "https://www.education.gov.in/en"
 
 - name: Google - Foundations of Business Intelligence
   timeline: ""
   organization:
-    name: Google @ Coursera
+    name: Google (Coursera)
     url: https://www.coursera.org
   courseOverview: This is the first of three courses in the Google Business Intelligence Certificate, which will help develop the skills needed to apply for entry-level roles as a business intelligence (BI) professional.
   certificateURL: "https://drive.google.com/file/d/1NCN9ylyBd2_LtPPaScy6eZQeQRWJULUt/view?usp=sharing"
