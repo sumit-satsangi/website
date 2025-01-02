@@ -25,47 +25,76 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+- name: Tableau
+  logo: /images/sections/skills/tableau.png
+  summary: "Identifying metrics and creating KPI Dashboards in Tableau to look at historical trends and analyse Ops performance."
+#  url: "https://kubernetes.io/"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+- name: Alteryx
+  logo: /images/sections/skills/alteryx.png
+  summary: "A small stint with Alteryx to do the heavy lifting of the Incentives file. The output is pushed to Power BI for dashboards."
+#  url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+- name: Power BI
+  logo: /images/sections/skills/pbix.png
+  summary: "Created multiple dashboards with one where Incentives are calculated automatically for the Operations."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+- name: R Language
+  logo: /images/sections/skills/Rlogo.png
+  summary: "I use R primarily for metrics calculations and data cleansing."
+#  url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+- name: SQL
+  logo: /images/sections/skills/SQL.png
+  summary: "Integral part of professional life."
+#  url: "https://prometheus.io/"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+- name: Excel
+  logo: /images/sections/skills/excel.png
+  summary: "When everything fails, Excel excels. Adhoc analyses, Macro, Small scale Automation, Concept proofing, Reporting Dashboards; I have created all of them in trustworthy Excel."
+# # 
+# 
+# - name: Kubernetes
+#   logo: /images/sections/skills/kubernetes.png
+#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#   categories: ["container"]
+#   url: "https://kubernetes.io/"
+# 
+# - name: Go Development
+#   logo: /images/sections/skills/go.png
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   categories: ["basic", "language"]
+#   url: "https://golang.org/"
+# 
+# - name: Cloud Computing
+#   logo: /images/sections/skills/cloud.png
+#   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+#   categories: ["others"]
+# 
+# - name: Docker
+#   logo: /images/sections/skills/docker.svg
+#   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+#   categories: ["container"]
+#   url: "https://www.docker.com/"
+# 
+# - name: Prometheus
+#   logo: /images/sections/skills/prometheus.png
+#   summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+#   categories: ["basic"]
+#   url: "https://prometheus.io/"
+# 
+# - name: Linux
+#   logo: /images/sections/skills/linux.png
+#   summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+#   categories: ["others"]
+# 
+# - name: Git
+#   logo: /images/sections/skills/git.png
+#   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+#   categories: ["basic"]
+#   url: "https://git-scm.com/"
+# 
+# - name: C++
+#   logo: /images/sections/skills/c++.png
+#   summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+#   categories: ["basic", "language"]
