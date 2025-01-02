@@ -44,29 +44,91 @@ experiences:
     logo: /images/sections/experiences/company2.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview:  
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Manager Strategy and Analytics
+    start: May 2021
+    end: Mar 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Lead a team of Analysts and Sr. Analysts
+    - Developing Productivity, Income Leakage, Service Level Agreement, BSA/MSA and Operational Metrics.
+    - Understanding Stakeholders request and converting that to tangible inferences. Into Inferential and Predictive Analytics.
+    - Automation of Standard Work. </p>
+    - Dashboards- Power BI, Tableau, AWS Quicksight, Excel
+    - Reports/Analysis- R, Power Query, Alteryx, Excel
+    - Automation- Alteryx, VBA, Box integration with Power BI
+    - Languages- VBA, R, SQL, DAX, MQuery
+
+  - designation: Assistant Manager (Senior Business Analyst)
+    start: Jun 2017
+    end: May 2021
+    responsibilities:
+    - Summarizing & presenting Productivity via Process Dashboards.
+    - Suggesting Process improvement strategies by analyzing metrics and data-set.
+    - Addressing and resolving adhoc queries received from Global Stake Holders and Leadership level that helps in effective decision making.
+    - Provide Solution Strategies for metrics improvement by writing complex VBA codes and algorithms that simplify complex tasks.
+    - Directly work with the offshore stakeholders and Leadership team to create effective Champion-Challenger and Excel/VBA based models to ascertain the performance of the teams/ Third party agencies.
+    - Provide intermediate Excel training to several colleagues through formal classroom sessions.
+    - Advanced level data analytics through utilization of Power Query, Pivots, OBIEE, Spotfire, Microsoft Excel/VBA.
+
+  - designation: Resident Expert (Business Productivity Analyst)
+    start: Apr 2014
+    end: Jun 2017
+    responsibilities:
+    - Running various Productivity and Analytical Models for business.
+    - Design & Execute Activity Based Costing Models for stake holders.
+    - Design queries for business and complex business problems solving.
+    - Providing process Control by identifying Load Management areas and notify apt parties.
+    - Proficient in usage of domain software (Business Intelligence/Business Objects, MS Excel)
+
+  - designation: SME (Loan Portfolio Analyst)
+    start: Aug 2012
+    end: Apr 2014
+    responsibilities:
+    - Servicing Direct, Agented and Syndicated deals and responsible for operational activities in HNI Syndicated Corporate Loans keeping knowledge current on loan accounting, portfolios, clients, operational procedures, regulatory requirements, systems and controls.
+    - Ensuring timely disbursement of funds, applying cash and ensuring transactions are in accordance with Legal requirements.
+    - Proficient in handling accounts in Commercial, Energy and Healthcare segments.
+    - Supervising the Audit requests received regarding the Credit Facilities.
+    - Processing the change in Wiring Instructions for the Investors and Borrowers for Direct and Agented deals in both Ledger and Bank.
+    - Minimizing risk by identifying the discrepancies and their root cause, notifying apt parties and taking appropriate action to resolve the issue.
+    - Thorough understanding of Term Loan, Revolver Loan, Syndicated Deals, Letter of Credit, Fx accounts, Account Servicing, Funding.
+    - Proficient in usage of domain software (ACBS, Siebel 8.1.1, Webcash, CTX+)
+
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+    name: Infosys, Bank of America, Genpact, Air Hostess Academy, Gita Mittal Foundation
+    url: ""
+    location: Multiple
+    #logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    overview: Conducted training sessions as a Vendor/ Independent Training Professional.</p>Reason to leave- Contract over
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Independent Training Professional
+    start: Sep 2007
+    end: Jul 2012
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Soft skills
+    - Personality Development
+    - Competency Based Training
+    - Advance Excel Training
+
+
+- company:
+    name: Genpact (Formerly GE Capital International Services)
+    url: "https://www.genpact.com"
+    location: Jaipur, Raj, India
+    #logo: /images/sections/experiences/company3.jpg
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company3.jpg
+    overview: Joined as a Process Associate for a UK process. One among the fastest promotion holders as a Process Developer in the initial 12 months of tenure. Two times bronze award winner along with a Silver Award, too. Part of the Lean Team.</p> Reason to leave- Joined Armed Forces
+  positions:
+  - designation: Subject Matter Expert
+    start: Sep 2005
+    end: Apr 2007
+    responsibilities:
+    - Store Account opening for UK merchants
+    - Maintaining productivity reports and process one pagers for Stakeholders review.
