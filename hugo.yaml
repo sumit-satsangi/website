@@ -23,13 +23,13 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Sumit Satsangi"
     weight: 1
   bn:
     languageCode: bn
     languageName: বাংলা
     title: জনের ব্লগ
-    weight: 2
+    weight: 3
 # default language for the content
 defaultContentLanguage: en
 
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/sumit-satsangi/website
   # Default branch of your Git repo
   gitBranch: main
 
