@@ -10,39 +10,39 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Bachelor in Science
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2001-2004
   institution:
-    name: ABC University of Technology
-    url: "#"
+    name: University of Rajasthan, Maharaja's College
+    url: "https://www.uniraj.ac.in/MaharajaCollege/"
     logo: /images/sections/education/tech_college.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+    scale: Grade
+    achieved: 69%
+    outOf: 100%
+  # publications: #(optional)
+  # - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  #   url: "#"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
+  # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+  #   url: "#"
+- name: High School
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2000-2001
   institution:
-    name: University of XYZ
+    name: Central Academy (Rajasthan Board of Secondary Education)
     url: "#"
     logo: /images/sections/education/university.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    scale: Grade
+    achieved: 72%
+    outOf: 100%
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: true
