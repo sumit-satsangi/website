@@ -6,7 +6,7 @@ greeting: "Hey folks, I am"
 image: "images/author/avatar.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "sumitsatsangi@aol.com"
+  email: "sumit.satsangi@aol.com"
   phone: "+91-9XX XXX XX31"
   github: sumit-satsangi
   linkedin: sumitsatsangi
