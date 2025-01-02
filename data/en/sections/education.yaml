@@ -36,7 +36,7 @@ degrees:
   institution:
     name: Central Academy (Rajasthan Board of Secondary Education)
     url: "#"
-    logo: /images/sections/education/university.jpg
+    logo: /images/sections/education/school.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/university.jpg
   grade: #(optional)
