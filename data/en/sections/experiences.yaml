@@ -11,37 +11,36 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Saama Technologies
+    url: "https://www.saama.com"
+    location: Pune, Maharashtra, India
     logo: /images/sections/experiences/company1.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Product Manager
+
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Product Manager
+    start: Mar 2022
+#    end: Mar 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Work as an Engagement Lead for complete Stakeholder Management
+    - Understanding business requirement and converting it in meaningful, quantifiable Jira Stories and tasks
+    - Responsible for Delivery and performance
+    - Work with CXO level focus groups for business strat meets.
+    - Create Power BI reports and dashboards for end users.
+    - "Technology used: Snowflake, Jira, Confluence, Power BI"
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
+    name: Genpact
+    url: "https://www.genpact.com"
+    location: Jaipur, Raj, India
     logo: /images/sections/experiences/company2.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
