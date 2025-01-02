@@ -51,22 +51,22 @@ accomplishments:
   courseOverview: Understand different ETL Testing scenarios like Constraint Testing, Source to Target Testing, Business Rules Testing, Negative Scenarios, Dependency Testing
   certificateURL: "https://drive.google.com/file/d/1NsfBFgGvTeZkwsnLb-FAAfCqIf-waYto/view?usp=sharing"
 
-# - name: CSM® Certification
-#   timeline: ""
-#   organization:
-#     name: Scrum.org
-#     url: https://www.scrum.org
-#   courseOverview: Describe how the Scrum values (courage, focus, commitment, respect, openness) relate to the Scrum artifacts, events, and roles.
-#   certificateURL: "https://drive.google.com/file/d/1xoCOqPSJOO-BImzIluXJQJuMs7f0Cj8c/view?usp=sharing"
-# 
-# - name: Certified SAFe® 6 Scrum Master - Credly
-#   timeline: ""
-#   organization:
-#     name: Scaled Agile, Inc
-#     url: https://scaledagile.com/
-#   courseOverview: Describe how the Scrum values (courage, focus, commitment, respect, openness) relate to the Scrum artifacts, events, and roles.
-#   certificateURL: "https://drive.google.com/file/d/1d-OcH4fIQA1YtaHEoBmXNXw03n8shMir/view?usp=sharing"
-# 
+- name: CSM® Certification
+  timeline: ""
+  organization:
+    name: Scrum.org
+    url: https://www.scrum.org
+  courseOverview: Describe how the Scrum values (courage, focus, commitment, respect, openness) relate to the Scrum artifacts, events, and roles.
+  certificateURL: "https://drive.google.com/file/d/1xoCOqPSJOO-BImzIluXJQJuMs7f0Cj8c/view?usp=sharing"
+
+- name: Certified SAFe® 6 Scrum Master - Credly
+  timeline: ""
+  organization:
+    name: Scaled Agile, Inc
+    url: https://scaledagile.com/
+  courseOverview: Describe how the Scrum values (courage, focus, commitment, respect, openness) relate to the Scrum artifacts, events, and roles.
+  certificateURL: "https://drive.google.com/file/d/1d-OcH4fIQA1YtaHEoBmXNXw03n8shMir/view?usp=sharing"
+
 # # 
 # # - name: Mastering Multithreading Programming with Go (Golang)
 # #   timeline: "Nov 2017 - Mar 2018"
