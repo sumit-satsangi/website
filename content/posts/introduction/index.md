@@ -37,28 +37,3 @@ Last I checked, I was a full-time husband and a father. Along with that, I am a 
 And then I saw Ali Abdaal talking about writing (and possibly become a millionaire):
 
 {{< youtube vyVpRiqOvt4 >}}
-
-</br>
-Now, as a sensible adult, I started watching it from education standpoint just to realize whom I am fooling around.
-
-So, I got out of my ever procrastinating slumber and wrote this piece of junk.
-
-Let me know how this looks like. I am just a newbie (oldbie, to be precise) in this area and hopefully can provide my contribution back to the society while I am also learning a thing or two.
-
-I will try to keep uploading new content now and then. Strictly speaking, there is no agenda as of now. So don’t know if I would be categorizing anything on the website. Eventually, it will come though.
-
-
-### New Content:
-</br>
-How can a blog on a markdown website not have an R Code
-
-```{bash}
-x <- "Hello World!"
-print(x)
-```
-
-So long!
-
-Stay safe, stay with family, wear mask!!!
-
-above all, keep smiling and keep learning…
