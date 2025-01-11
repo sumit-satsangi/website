@@ -62,33 +62,3 @@ So long!
 Stay safe, stay with family, wear mask!!!
 
 above all, keep smiling and keep learning…
-
-<style>
-body {
-text-align: justify
-}
-</style>
-<style>
-.firstcharacter {
-  color: #903;
-  float: left;
-  font-family: Georgia;
-  font-size: 75px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
-}
-</style>
-<style>
-.comment {
-  color: #999999;
-  float: left;
-  font-size: 12px;
-  font-style: italic;
-  line-height: 0px;
-  padding-top: 0px;
-  padding-right: 0px;
-  padding-left: 0px;
-}
-</style>
