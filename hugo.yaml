@@ -22,6 +22,13 @@ module:
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 disableLanguages : ['bn', 'ja']
 
+
+ignoreFiles:
+#    -\.Rmd$
+    - \.Rmarkdown$
+    - _cache$
+
+
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
@@ -120,7 +127,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
