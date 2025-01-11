@@ -8,7 +8,7 @@ menu:
     identifier: introduction
     weight: 10
 tags: ["Basic", "Intro"]
-categories: ["Basic"]
+categories: ["Basic"] 
 output: html_document
 ---
 
