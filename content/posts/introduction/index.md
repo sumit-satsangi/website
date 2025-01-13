@@ -21,7 +21,7 @@ Greeting! This is an introduction post. This post tests the followings:
 
 ### Old Content:
 
-</br><span class="comment">Blatantely copied from my own post at <a href="https://sumitsatsangi.wordpress.com/2021/05/05/first-post/">Wordpress</a>.<span class="comment"></span></p>
+</br><span class="comment">Blatantly copied from my own post at <a href="https://sumitsatsangi.wordpress.com/2021/05/05/first-post/">Wordpress</a>.<span class="comment"></span></p>
  </p></br>
 <span class="firstcharacter">T</span>his marks the first day in a long time that I am writing something directly over Internet. No filters and no preparation. Only a couple of tweaks and here I am, brutal to myself, open to all. 
 </p>
@@ -37,3 +37,5 @@ Last I checked, I was a full-time husband and a father. Along with that, I am a 
 And then I saw Ali Abdaal talking about writing (and possibly become a millionaire):
 
 {{< youtube vyVpRiqOvt4 >}}
+
+</br>
