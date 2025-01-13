@@ -53,7 +53,7 @@ I will try to keep uploading new content now and then. Strictly speaking, there 
 </br>
 How can a blog on a markdown website not have an R Code
 
-```{bash}
+```
 x <- "Hello World!"
 print(x)
 ```
