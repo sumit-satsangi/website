@@ -2,12 +2,11 @@
 name: "Sumit Satsangi"
 nickname: "Sumit"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: 
-Text(
-  'I am a Data & Analytics Leader with 20+ years of experience helping organizations transform data into measurable business outcomes across Healthcare, Banking, Insurance, Consulting, Collections, Renewable Energy, and Working Capital Management. Throughout my career, I have partnered with executive stakeholders, business leaders, and technical teams to design and deliver enterprise analytics solutions that improve operational performance, strengthen governance, reduce costs, and support strategic decision-making. My experience includes leading multidisciplinary teams of Data Engineers, Power BI Developers, Business Analysts, QA Specialists, Architects, and Data Modelers while delivering enterprise-scale reporting, analytics modernization, and data transformation initiatives. My technical expertise includes Power BI, Power BI Premium, SQL, Snowflake, BigQuery, Python, R, Tableau, Alteryx, DAX, Power Query, Data Modeling, Data Visualization, Executive Reporting, KPI Framework Design, AI-Enabled Analytics, and Analytics Transformation. Beyond my professional responsibilities, I am passionate about continuous improvement, leadership development, and productivity. Through my podcast, Productivity Playbook, I share practical insights on productivity, effectiveness, and professional growth.',
-  style: TextStyle(fontSize: 14.0),
-);
+fontsize: 12pt
 
+greeting: 
+"I am a Data & Analytics Leader with 20+ years of experience helping organizations transform data into measurable business outcomes across Healthcare, Banking, Insurance, Consulting, Collections, Renewable Energy, and Working Capital Management. Throughout my career, I have partnered with executive stakeholders, business leaders, and technical teams to design and deliver enterprise analytics solutions that improve operational performance, strengthen governance, reduce costs, and support strategic decision-making. My experience includes leading multidisciplinary teams of Data Engineers, Power BI Developers, Business Analysts, QA Specialists, Architects, and Data Modelers while delivering enterprise-scale reporting, analytics modernization, and data transformation initiatives. My technical expertise includes Power BI, Power BI Premium, SQL, Snowflake, BigQuery, Python, R, Tableau, Alteryx, DAX, Power Query, Data Modeling, Data Visualization, Executive Reporting, KPI Framework Design, AI-Enabled Analytics, and Analytics Transformation. Beyond my professional responsibilities, I am passionate about continuous improvement, leadership development, and productivity. Through my podcast, Productivity Playbook, I share practical insights on productivity, effectiveness, and professional growth."
+  
 image: "images/author/avatar.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
